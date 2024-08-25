@@ -1,15 +1,11 @@
-<script>
-</script>
-
 <svelte:head>
 	<title>Tentang StimpFy3D</title>
 </svelte:head>
-<!-- <Doc /> -->
 
 <div class="max-w-full py-8 text-black">
 	<h2 class="mb-10 text-3xl font-medium">About Stimpfy3D</h2>
 	<section class="flex gap-5">
-		<img src="/images/sarah.png" alt="stimpfy3d-result" width="300" />
+		<img src="/images/sarah.png" alt="stimpfy3d-result" width="300" class="rounded-2xl" />
 		<div class="flex flex-col justify-between">
 			<p class="text-2xl">
 				<strong>Stimpfy3D</strong>, singkatan dari STMIK Profesional for Your 3D, adalah software

@@ -1,8 +1,8 @@
 // trial
-// const token = 'Basic bnVybWFuLmF3YWx1ZGRpbjIwMjBAZ21haWwuY29t:DEQyeeqhYFDs0DpmMnrmH';
+const token = 'Basic cmFobWF0Lmd1bmF3YW5Ac3R1ZGVudC51bmlzbXVoLmFjLmlk:MBF-ZNf7QdUGodQUejGe3';
 
 // premium
-const token = 'Basic bnVybWFuLmF3YWx1ZGRpbjIwMTdAZ21haWwuY29t:MLnw_uayxFL7Qb1dgbqOy';
+// const token = 'Basic bnVybWFuLmF3YWx1ZGRpbjIwMTdAZ21haWwuY29t:MLnw_uayxFL7Qb1dgbqOy';
 let sarah = 'EXAVITQu4vr4xnSDxMaL';
 let brian = 'nPczCjzI2devNBz1zQrb';
 let voiceID;

@@ -63,9 +63,9 @@ async function getAvatar(processId: any) {
 				const result = data.result.output[0];
 				return new Promise((resolve) => {
 					console.log('Output URL:', result);
-					alert('DONE');
-					window.open(result, '_blank');
-					console.clear();
+					// alert('DONE');
+					// window.open(result, '_blank');
+					// console.clear();
 					resolve(result);
 				});
 			} else {

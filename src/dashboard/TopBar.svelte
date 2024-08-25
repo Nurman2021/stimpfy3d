@@ -28,7 +28,7 @@
 						class=" w-12 mx-auto object-cover rounded-xl"
 					/>
 				</span>
-				<h1 class=" font-bold text-2xl text-gray-800">Stimpfy3D</h1>
+				<h1 class=" font-bold text-xl text-white">Stimpfy3D</h1>
 			</div>
 		</div>
 	</div>
